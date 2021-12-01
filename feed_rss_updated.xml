@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Geotribu</title>
+    <description>Site indépendant de veille sur la géomatique libre et open source. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données...</description>
+    <link>https://static.geotribu.fr/</link>
+    <atom:link href="https://static.geotribu.fr/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Geotribu</managingEditor>
+    <docs>https://github.com/geotribu/website/</docs>
+    <language>en</language>
+
+    
+    <pubDate>Wed, 01 Dec 2021 08:41:00 -0000</pubDate>
+    <lastBuildDate>Wed, 01 Dec 2021 08:41:00 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v0.19.1</generator>
+
+    
+    
+    <image>
+      <url>https://cdn.geotribu.fr/img/internal/charte/geotribu_logo_64x64.png</url>
+      <title>Geotribu</title>
+      <link>https://static.geotribu.fr/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Du HTML en Markdown (et vice-versa)</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      
+      
+        
+      <category>BeautifulSoup</category>
+        
+      <category>Geotribu</category>
+        
+      <category>Histoire</category>
+        
+      <category>Markdown</category>
+        
+      <category>Python</category>
+        
+      <category>article</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Convertir les contenus récupérés de l&#39;ancien site de Geotribu en Markdown (via markdownify) : lingua franca du contenu web 2020.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:31:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
+      
+    </item>
+    
+    <item>
+      <title>Tchattez avec l&#39;OSGeo France</title>
+      
+      
+        
+      <author>Loïc BARTOLETTI</author>
+        
+      <author>Julien MOURA</author>
+        
+      <author>Nicolas ROELANDT</author>
+        
+      
+      
+      
+        
+      <category>IRC</category>
+        
+      <category>Matrix</category>
+        
+      <category>OSGeo France</category>
+        
+      <category>article</category>
+        
+      <category>communauté</category>
+        
+      
+      <description>Viens discuter avec les utilisateur/ices francophones de tes logiciels SIG open source préférés (QGIS, GRASS, GDAL...) !</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-10-15_irc_osgeo/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:31:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-10-15_irc_osgeo/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-10-15_irc_osgeo/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/logos-icones/entreprises_association/osgeo_fr_banniere_francophone.png" type="image/png" length="55029" />
+      
+    </item>
+    
+    <item>
+      <title>Géo-communs : rendez-vous avec Sébastien Soriano, lundi 10 mai</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoITW</category>
+        
+      <category>Géointerview</category>
+        
+      <category>IGN</category>
+        
+      <category>Sébastien Soriano</category>
+        
+      <category>article</category>
+        
+      <category>géo-communs</category>
+        
+      <category>événement</category>
+        
+      
+      <description>L&#39;IGN lance une consultation publique inédite pour co-construire son avenir autour du concept fort des géo-communs. Rendez-vous lundi 10 mai sur Geotribu pour la GeoInterview (#GeoITW) de Sébastien Soriano.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:18:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/interview/sebastien_soriano/geocommuns_geoitw.png" type="image/png" length="398779" />
+      
+    </item>
+    
+    <item>
+      <title>Mise à jour estivale 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Geotribu</category>
+        
+      <category>article</category>
+        
+      
+      <description>Ce vendredi, pas de revue de presse mais une revue des nouveautés du site récentes : licences, page d&#39;accueil et sponsoring à venir.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:18:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-07-16_relooking_nouveautes_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_homepage_dark_2021-07-16.png" type="image/png" length="241194" />
+      
+    </item>
+    
+    <item>
+      <title>Intégrer les données OpenStreetMap dans son SIG pour s&#39;engager dans un processus de contribution réciproque</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      
+      
+      
+        
+      <category>Bash</category>
+        
+      <category>OGR</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PostGIS</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>SQL</category>
+        
+      <category>article</category>
+        
+      <category>cURL</category>
+        
+      <category>data</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Intégrer les données OpenStreetMap dans son SIG pour s&#39;engager dans un processus de contribution réciproque</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-10-05_lien_sig_osm/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:18:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-10-05_lien_sig_osm/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-10-05_lien_sig_osm/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/lien_osm_sig/osm_sig.png" type="image/png" length="244360" />
+      
+    </item>
+    
+    <item>
+      <title>A la redécouverte de QGIS 0.x</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      
+      
+        
+      <category>Halloween</category>
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      
+      <description>Tiens et si on installait QGIS 0.9 Ganymède en 2021 et qu&#39;on essayait de faire une carte ? Petit voyage dans le temps.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-10-31_retour-vers-le-futur-de-qgis-ganymede/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:18:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-10-31_retour-vers-le-futur-de-qgis-ganymede/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-10-31_retour-vers-le-futur-de-qgis-ganymede/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/logiciels/qgis/qgis_0x/qgis_0-9_ganymede_splash.png" type="image/png" length="261979" />
+      
+    </item>
+    
+    <item>
+      <title>Géo-lecture : L&#39;enfer du numérique</title>
+      
+      
+        
+      <author>Aurélien Chaumet</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>environnement</category>
+        
+      <category>géo-lecture</category>
+        
+      <category>lecture</category>
+        
+      <category>numérique</category>
+        
+      <category>sobriété</category>
+        
+      <category>écologie</category>
+        
+      
+      <description>Quelques éléments de lecture et de réflexions autour du livre de Guillaume Pitron : l&#39;enfer du numérique - Voyage au bout d&#39;un clic. L&#39;auteur souhaite que nous nous questionnions sur l&#39;impact physique et matériel de nos actes numériques</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-11-09_fiche_geolecture_enfer_numerique/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:18:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-11-09_fiche_geolecture_enfer_numerique/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-11-09_fiche_geolecture_enfer_numerique/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/geolecture_enfer_numerique/enfer_numerique.png" type="image/png" length="292989" />
+      
+    </item>
+    
+    <item>
+      <title>Faire une carte en relief des Écrins</title>
+      
+      
+        
+      <author>Jean-Marc Viglino</author>
+        
+      
+      
+      
+        
+      <category>3D</category>
+        
+      <category>BDAlti</category>
+        
+      <category>DEM</category>
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      <category>relief</category>
+        
+      <category>three.js</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Réalisez facilement une carte en relief du Parc National des Écrins avec des données IGN et QGIS. #30DayMapChallenge 2021.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-11-11_carte_en_relief_des_ecrins/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:18:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-11-11_carte_en_relief_des_ecrins/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-11-11_carte_en_relief_des_ecrins/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte_en_relief_des_ecrins/0-head.jpg" type="image/jpeg" length="174277" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 22 octobre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GPS</category>
+        
+      <category>Geotrek</category>
+        
+      <category>Input app</category>
+        
+      <category>OSGeo</category>
+        
+      <category>QGIS</category>
+        
+      <category>QompliGIS</category>
+        
+      <category>R</category>
+        
+      <category>carte de flux</category>
+        
+      <category>cartogramme</category>
+        
+      <category>deep fake</category>
+        
+      <category>livre</category>
+        
+      <category>projection</category>
+        
+      <category>revue de presse</category>
+        
+      <category>train</category>
+        
+      
+      <description>GeoRDP du 22 octobre 2021 : On vous emmène cette semaine à la découverte des dernières actualités de la géomatix. QGIS 3.22, QompliGIS, Input, R, deep fakes, carte des trains, cartogrammes, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-10-22/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:18:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-10-22/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-10-22/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/obelix_asterix_vignette.png" type="image/png" length="527220" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 5 novembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CRAIG</category>
+        
+      <category>CRIGE PACA</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Overpass Turbo</category>
+        
+      <category>QField</category>
+        
+      <category>QGIS</category>
+        
+      <category>Twitter</category>
+        
+      <category>application</category>
+        
+      <category>carburants</category>
+        
+      <category>français</category>
+        
+      <category>qualité</category>
+        
+      <category>revue de presse</category>
+        
+      <category>société</category>
+        
+      <category>train</category>
+        
+      <category>vélo</category>
+        
+      
+      <description>GeoRDP du 5 novembre 2021 : Tournée de géo-sucreries et carto-farces pour tout le monde avec notamment la mise à jour de QField, le début du #30DayMapChallenge, une vidéo sur OverPass Turbo</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-11-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 13:18:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-11-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-11-05/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/R_Guedon_Projection_Werner.jpeg" type="image/jpeg" length="119258" />
+      
+    </item>
+    
+    <item>
+      <title>Le traitement des données OSM chez Geovelo</title>
+      
+      
+        
+      <author>Samuel Deschamps-Berger</author>
+        
+      
+      
+      
+        
+      <category>Geovelo</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>article</category>
+        
+      
+      <description>Etat des lieux des traitements OSM de geovelo</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-11-26_traitements_data_osm_geovelo/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 26 Nov 2021 09:03:08 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-11-26_traitements_data_osm_geovelo/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-11-26_traitements_data_osm_geovelo/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/geovelo_traitements_data_osm/visuels_app_geovelo.jpg" type="image/jpeg" length="49777" />
+      
+    </item>
+    
+    <item>
+      <title>2020 dans le géorétro, 2021 en ligne de mire</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Geotribu</category>
+        
+      <category>SIG</category>
+        
+      <category>article</category>
+        
+      <category>collaboratif</category>
+        
+      <category>contribution</category>
+        
+      <category>fréquentation</category>
+        
+      <category>géomatique</category>
+        
+      <category>statistiques</category>
+        
+      <category>voeux</category>
+        
+      
+      <description>L&#39;équipe de Geotribu vous souhaite ses meilleurs voeux pour 2021, avec quelques statistiques sur l&#39;année 2020 et une feuille de route 2021.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 25 Nov 2021 14:57:32 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/phoenix_constellation_map_fr.png" type="image/png" length="15501" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 13 novembre 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>30DayMapChallenge</category>
+        
+      <category>GDAL</category>
+        
+      <category>LIDAR</category>
+        
+      <category>OpenDroneMap</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>QGIS</category>
+        
+      <category>Strava</category>
+        
+      <category>gvSIG</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 13 novembre 2020, retrouvez le condensé de la géomatique : #30DayMapChallenge, InfluxDB, mobilité, livres, atlas, rdv techniques et thématiques, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 25 Nov 2021 14:55:53 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mayors_dialogue_visual_motif.png" type="image/png" length="467357" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 septembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CartONG</category>
+        
+      <category>DécryptaGéo</category>
+        
+      <category>Google Maps</category>
+        
+      <category>GéoDataDays</category>
+        
+      <category>Kalisio</category>
+        
+      <category>My Planet Maps</category>
+        
+      <category>SAGA</category>
+        
+      <category>SvelteJS</category>
+        
+      <category>Twitter</category>
+        
+      <category>Wikipédia</category>
+        
+      <category>carte des feux</category>
+        
+      <category>carte des vents</category>
+        
+      <category>féminisme</category>
+        
+      <category>jeux vidéo</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Une magnifique application en SvelteJS, 100 biographies de femmes géographes, un bot Twitter pour présenter l&#39;Occitanie, un point sur les GéoDataDays, les problèmes de Google Maps en Chine, le jeu du saute-canton, une visualisation des méga feux par le New-York Times, SAGA 8, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-09-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 25 Nov 2021 14:55:53 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-09-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-09-24/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/fluid_earth.png" type="image/png" length="820961" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 19 novembre 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>30DayMapChallenge</category>
+        
+      <category>Géoplateforme</category>
+        
+      <category>HERE</category>
+        
+      <category>IGN</category>
+        
+      <category>OSO</category>
+        
+      <category>Theia</category>
+        
+      <category>adresse</category>
+        
+      <category>gouvernement</category>
+        
+      <category>géo-communs</category>
+        
+      <category>icônes</category>
+        
+      <category>journalisme</category>
+        
+      <category>open source</category>
+        
+      <category>revue de presse</category>
+        
+      <category>régate</category>
+        
+      
+      <description>GeoRDP du 19 novembre 2021 : les communs avancent dans le gouvernement français, de la 3D automatisée, une belle régate présidentielle, HERE libère ses icônes, le 30DayMapChallenge bat son plein, etc. Ainsi va la vie de la géomatique libre et ouverte.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-11-19/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Mon, 22 Nov 2021 14:34:07 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-11-19/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-11-19/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/regate_presidentielle.png" type="image/png" length="294214" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 15 janvier 2016</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>3D</category>
+        
+      <category>ASIT VD</category>
+        
+      <category>DIY</category>
+        
+      <category>Dropchop</category>
+        
+      <category>GRASS GIS</category>
+        
+      <category>GéoSéminaire</category>
+        
+      <category>OGRS</category>
+        
+      <category>Open Earth View</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>R</category>
+        
+      <category>Rocket</category>
+        
+      <category>SpatiaLite</category>
+        
+      <category>métro</category>
+        
+      <category>observatoire</category>
+        
+      <category>population</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 15 janvier 2016</description>
+      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-01-15/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 18 Nov 2021 11:21:29 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2016/rdp_2016-01-15/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-01-15/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/wavecity-0-900x600.jpg" type="image/jpeg" length="77456" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 11 mars 2016</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>BNF</category>
+        
+      <category>CaribeWave</category>
+        
+      <category>Facebook</category>
+        
+      <category>Google</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>QGIS</category>
+        
+      <category>Tsunami</category>
+        
+      <category>globe</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 11 mars 2016</description>
+      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 18 Nov 2021 11:21:29 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-03-11/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/fb.jpg" type="image/jpeg" length="140421" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 juin</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Apple</category>
+        
+      <category>Brexit</category>
+        
+      <category>COGIT</category>
+        
+      <category>D3.js</category>
+        
+      <category>Google</category>
+        
+      <category>IGN</category>
+        
+      <category>Minecraft</category>
+        
+      <category>Open Solar Map</category>
+        
+      <category>QGIS</category>
+        
+      <category>R</category>
+        
+      <category>Shipmap</category>
+        
+      <category>pgRrouting</category>
+        
+      <category>revue de presse</category>
+        
+      <category>sonore</category>
+        
+      
+      <description>Revue de presse du 24 juin 2016</description>
+      <link>https://static.geotribu.fr/rdp/2016/rdp_2016-06-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Thu, 18 Nov 2021 11:21:29 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2016/rdp_2016-06-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2016/rdp_2016-06-24/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/foss4g-geotribu.JPG" type="image/jpeg" length="95782" />
+      
+    </item>
+    
+    <item>
+      <title>ign2map : Du site à la carte en 7 étapes</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      <author>Julien Moura</author>
+        
+      
+      
+      
+        
+      <category>Bash</category>
+        
+      <category>GitHub</category>
+        
+      <category>IGN</category>
+        
+      <category>Leaflet</category>
+        
+      <category>article</category>
+        
+      <category>awk</category>
+        
+      <category>sed</category>
+        
+      
+      <description>ign2map : le petit projet de Geotribu pour rendre l’expérience de téléchargement des données ouvertes de l&#39;IGN plus interactive.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:37:25 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/ign_opendata_map_html_rendu.png" type="image/png" length="953084" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 janvier 2013</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CartoDB</category>
+        
+      <category>GeoServer</category>
+        
+      <category>GeoTools</category>
+        
+      <category>IGN</category>
+        
+      <category>ROK4</category>
+        
+      <category>astuce</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 4 janvier 2013</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-01-04/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:37:25 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2013/rdp_2013-01-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-01-04/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 juillet 2013</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Orfeo ToolBox</category>
+        
+      <category>PostGIS</category>
+        
+      <category>QGIS</category>
+        
+      <category>WebGL</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      <category>tendances</category>
+        
+      
+      <description>Revue de presse du 26 juillet 2013</description>
+      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-07-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:33:48 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2013/rdp_2013-07-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-07-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 juin 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Cesium</category>
+        
+      <category>Openlayers</category>
+        
+      <category>React</category>
+        
+      <category>ombrages</category>
+        
+      <category>revue de presse</category>
+        
+      <category>serveur géographique</category>
+        
+      <category>styles QGIS</category>
+        
+      
+      <description>GeoRDP du 12 juin 2020 : mots-croisés géographiques et quel est le serveur géospatial le plus répandu ?</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:33:48 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geoseer_analisis_geospatial_servers_propr_vs_foss.png" type="image/png" length="13025" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 25 décembre 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Amazon</category>
+        
+      <category>Cerema</category>
+        
+      <category>FIG</category>
+        
+      <category>GeoServer</category>
+        
+      <category>Georezo</category>
+        
+      <category>IGN</category>
+        
+      <category>Inkmap</category>
+        
+      <category>Mapbox</category>
+        
+      <category>Nominatim</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>PostGIS</category>
+        
+      <category>Serval</category>
+        
+      <category>drone</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 25 décembre 2020 : la revue de presse géomatique de Geotribu pour souhaiter Joyeux Noël et bonnes fêtes !</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:33:48 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.png" type="image/png" length="530787" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 29 janvier 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>AI4GEO</category>
+        
+      <category>Afigéo</category>
+        
+      <category>IGN</category>
+        
+      <category>Minard</category>
+        
+      <category>Philcarto</category>
+        
+      <category>PyGEOS</category>
+        
+      <category>QGIS</category>
+        
+      <category>R</category>
+        
+      <category>SOTM</category>
+        
+      <category>SRTM</category>
+        
+      <category>Tokyo</category>
+        
+      <category>Vistas</category>
+        
+      <category>Voronoï</category>
+        
+      <category>cartographie</category>
+        
+      <category>football</category>
+        
+      <category>geocomputation</category>
+        
+      <category>jeux vidéo</category>
+        
+      <category>neige</category>
+        
+      <category>revue de presse</category>
+        
+      <category>tableaux de bord</category>
+        
+      <category>traceur</category>
+        
+      <category>transport</category>
+        
+      
+      <description>GeoRDP du 29 janvier 2021 : voyage dans le temps avec PhilCarto 2021 puis retour dans le présent avec PyGEOS, Mapillary, AI4Geo, WillyMaps, du mesh et d&#39;autres choses encore !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:33:48 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/shadowarm.jpeg" type="image/jpeg" length="158332" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 mars 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CartoMob</category>
+        
+      <category>GeoNight</category>
+        
+      <category>Google Desktop Roads Editor</category>
+        
+      <category>Géoplateforme</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Python Graph Gallery</category>
+        
+      <category>QField</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 12 mars 2021 : la revue de presse de la géomatique libre et open source.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:33:48 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/cran_motif_packages.png" type="image/png" length="146596" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 mars 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>April</category>
+        
+      <category>Brunet</category>
+        
+      <category>Covid</category>
+        
+      <category>GeoExt</category>
+        
+      <category>GeoServer</category>
+        
+      <category>GeoTools</category>
+        
+      <category>IGN</category>
+        
+      <category>Input</category>
+        
+      <category>MapLibre</category>
+        
+      <category>QGIS</category>
+        
+      <category>colloque</category>
+        
+      <category>noGDAL</category>
+        
+      <category>pgAdmin</category>
+        
+      <category>podcast</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>GeoRDP du 26 mars 2021 : On vous rassure cette nouvelle revue de presse n&#39;a pas été impactée par le blocage du canal de Suez, les actualités ont continué d&#39;affluer</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:33:48 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/cnes_canal_suez.png" type="image/png" length="829341" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 2 juillet 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Esri</category>
+        
+      <category>IGN</category>
+        
+      <category>Lyon</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PGSession</category>
+        
+      <category>PostgreSQL</category>
+        
+      <category>QGIS</category>
+        
+      <category>QSoccer</category>
+        
+      <category>cartographie</category>
+        
+      <category>géo-communs</category>
+        
+      <category>occupation du sol</category>
+        
+      <category>revue de presse</category>
+        
+      <category>réseaux</category>
+        
+      
+      <description>GeoRDP du 2 juillet 2021. Au menu de la revue de presse de la géomatique ouverte et collaborative : LiDAR IGN, géocommuns, atlas QGIS, occupation du sol Esri, Lyon en 1700, un moteur de recherche en langage naturel sur OSM, du footbal dans QGIS... De quoi attaquer sereinement l&#39;été !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 14:33:48 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-07-02/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/glastonbury.jpg" type="image/jpeg" length="129888" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 23 avril 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CNIG</category>
+        
+      <category>Data Terra</category>
+        
+      <category>GDAL</category>
+        
+      <category>GIMP</category>
+        
+      <category>IGN</category>
+        
+      <category>Leaflet</category>
+        
+      <category>QGIS</category>
+        
+      <category>dashboard</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      <category>satellite</category>
+        
+      <category>sculpture</category>
+        
+      <category>timelapse</category>
+        
+      
+      <description>GeoRDP du 23 avril 2021 : cette revue de presse devrait vous emmener dans les hautes sphères de la géomatique open source. Décollage des news imminent !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Tue, 16 Nov 2021 12:28:24 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/intro_osm_st-petersbourg-russie.jpg" type="image/jpeg" length="152520" />
+      
+    </item>
+    
+    <item>
+      <title>Installer le site Geotribu comme une application</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      
+      
+        
+      <category>Geotribu</category>
+        
+      <category>PWA</category>
+        
+      <category>application</category>
+        
+      <category>article</category>
+        
+      <category>astuce</category>
+        
+      <category>site</category>
+        
+      <category>tutoriel</category>
+        
+      
+      <description>Le site de Geotribu se présente comme une PWA. Voici comment l&#39;installer comme une application (Windows 10 et Android).</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-03-20_installer_site_comme_application/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Mon, 15 Nov 2021 10:57:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-03-20_installer_site_comme_application/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-03-20_installer_site_comme_application/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/internal/install_pwa/geotribu_uninstall_pwa_win10.png" type="image/png" length="116227" />
+      
+    </item>
+    
+    <item>
+      <title>Premiers pas dans la cour des grands</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>blog</category>
+        
+      <category>lancement</category>
+        
+      
+      <description>Lancement du blog de Geotribu</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-03/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-11-03/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-03/</guid>
+      
+    </item>
+    
+    <item>
+      <title>WorkShop OpenLayers</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenLayers</category>
+        
+      <category>article</category>
+        
+      
+      <description>WorkShop OpenLayers</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-11-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Sortie de la version 3.0.0 de PyWPS</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>PyWPS</category>
+        
+      <category>Python</category>
+        
+      <category>WPS</category>
+        
+      <category>article</category>
+        
+      
+      <description>Sortie de la version 3.0.0 de PyWPS</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-11-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-07/</guid>
+      
+    </item>
+    
+    <item>
+      <title>WorkShop Quantum GIS</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      
+      <description>WorkShop Quantum GIS</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-17/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-11-17/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-17/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Comparatif des différentes solutions cartographiques Open-Source</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>open source</category>
+        
+      
+      <description>Comparatif des différentes solutions cartographiques Open-Source</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-06/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-12-06/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-06/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Les données SIG devraient-elles être libres ?</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>SIG</category>
+        
+      <category>article</category>
+        
+      <category>open data</category>
+        
+      
+      <description>Et si les données SIG étaient libres ?</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-12-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-07/</guid>
+      
+    </item>
+    
+    <item>
+      <title>GeoExt, le mariage de l&#39;IHM et de la cartographie</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Ext</category>
+        
+      <category>GeoExt</category>
+        
+      <category>article</category>
+        
+      <category>webmapping</category>
+        
+      
+      <description>GeoExt, le mariage de l&#39;IHM et de la cartographie</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-11/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-12-11/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-11/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Appel à sponsoring - Code Sprint Open Layers</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenLayers</category>
+        
+      <category>article</category>
+        
+      
+      <description>Appel à sponsoring - Code Sprint Open Layers</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-12-16/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/art_2008-12-16/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-12-16/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Générer des tuiles avec PHP</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>PHP</category>
+        
+      <category>WMS</category>
+        
+      <category>article</category>
+        
+      <category>tuiles</category>
+        
+      
+      <description>Générer des tuiles avec PHP</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-01-13/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-01-13/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-13/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Android et OpenStreetMap</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Android</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>article</category>
+        
+      
+      <description>Android et OpenStreetMap</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-01-14/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-01-14/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-14/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Liste des logiciels OpenSource disponible</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>open source</category>
+        
+      
+      <description>Liste des logiciels OpenSource disponible</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-01-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-01-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-21/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Interview de David Jonglez, co-fondateur de Camptocamp</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Camptocamp</category>
+        
+      <category>article</category>
+        
+      
+      <description>Interview de David Jonglez, co-fondateur de Camptocamp</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-01-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-01-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-01-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Les plus grands mensonges à l&#39;encontre de l&#39;openSource</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GFOSS</category>
+        
+      <category>article</category>
+        
+      <category>open source</category>
+        
+      
+      <description>Les plus grands mensonges à l&#39;encontre de l&#39;openSource</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-02-01/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-02-01/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-02-01/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Sortie de QGIS 1.0 - KORE</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      
+      <description>Sortie de QGIS 1.0 - KORE</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-02-09/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-02-09/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-02-09/</guid>
+      
+    </item>
+    
+    <item>
+      <title>GéoDjango LE framework cartographique de haut niveau</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoDjango</category>
+        
+      <category>article</category>
+        
+      
+      <description>GéoDjango LE framework cartographique de haut niveau</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-03/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-03/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-03/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Cartographier l&#39;immatériel</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>immatériel</category>
+        
+      
+      <description>Cartographier l&#39;immatériel</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-05/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Explorer le format GeoRSS</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoRSS</category>
+        
+      <category>article</category>
+        
+      
+      <description>Explorer le format GeoRSS</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-18/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Le pense bête d&#39;OpenLayers</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenLayers</category>
+        
+      <category>article</category>
+        
+      
+      <description>Le pense bête d&#39;OpenLayers</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-23/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-23/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-23/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Geospatial Revolution Project, une introduction SIG en vidéo</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Geospatial Revolution Project</category>
+        
+      <category>article</category>
+        
+      
+      <description>Geospatial Revolution Project, une introduction SIG en vidéo</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-24/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Toulouse bientôt ville numérique ?</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>ville numérique</category>
+        
+      
+      <description>Toulouse bientôt ville numérique ?</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Enfin une émission de qualité à la télévision !</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>télévision</category>
+        
+      
+      <description>Enfin une émission de qualité à la télévision !</description>
+      <link>https://static.geotribu.fr/articles/2009/art_2009-03-31/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sat, 30 Oct 2021 10:02:57 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/art_2009-03-31/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-03-31/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
